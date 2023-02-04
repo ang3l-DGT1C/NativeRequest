@@ -13,6 +13,8 @@
 		3DA75553298ED0B2009FF888 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DA75551298ED0B2009FF888 /* Main.storyboard */; };
 		3DA75555298ED0B4009FF888 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DA75554298ED0B4009FF888 /* Assets.xcassets */; };
 		3DA75558298ED0B4009FF888 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DA75556298ED0B4009FF888 /* LaunchScreen.storyboard */; };
+		3DA75560298ED213009FF888 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA7555F298ED213009FF888 /* TableViewController.swift */; };
+		3DA75562298ED500009FF888 /* RickAndMorty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA75561298ED500009FF888 /* RickAndMorty.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3DA75554298ED0B4009FF888 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DA75557298ED0B4009FF888 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DA75559298ED0B4009FF888 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DA7555F298ED213009FF888 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		3DA75561298ED500009FF888 /* RickAndMorty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickAndMorty.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				3DA75554298ED0B4009FF888 /* Assets.xcassets */,
 				3DA75556298ED0B4009FF888 /* LaunchScreen.storyboard */,
 				3DA75559298ED0B4009FF888 /* Info.plist */,
+				3DA7555F298ED213009FF888 /* TableViewController.swift */,
+				3DA75561298ED500009FF888 /* RickAndMorty.swift */,
 			);
 			path = NativeRequest;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				3DA75550298ED0B2009FF888 /* ViewController.swift in Sources */,
 				3DA7554C298ED0B2009FF888 /* AppDelegate.swift in Sources */,
 				3DA7554E298ED0B2009FF888 /* SceneDelegate.swift in Sources */,
+				3DA75562298ED500009FF888 /* RickAndMorty.swift in Sources */,
+				3DA75560298ED213009FF888 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
